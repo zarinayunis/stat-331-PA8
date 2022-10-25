@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: Jamie T, Zarina Y, Ashley A
+author: Jamie, Ashley, Zarina, Stephen
 format: html
 editor: visual
 ---
